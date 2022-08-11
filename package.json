@@ -56,7 +56,7 @@
     "@loopback/rest": "^1.11.2",
     "@loopback/rest-explorer": "^1.1.22",
     "@loopback/service-proxy": "^1.1.10",
-    "loopback-connector-postgresql": "^3.6.1",
+    "loopback-connector-postgresql": "^5.5.1",
     "passport": "^0.4.0",
     "passport-http": "^0.3.0"
   },
